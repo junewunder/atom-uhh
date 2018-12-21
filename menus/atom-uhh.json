@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle atom-uhh",
+        "command": "atom-uhh:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-uhh",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "atom-uhh:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
