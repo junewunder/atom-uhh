@@ -1,7 +1,7 @@
 {
   "name": "uhh",
   "main": "./lib/atom-uhh",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "a plugin that makes atom sound as unsure as you!",
   "keywords": [],
   "repository": "https://github.com/jaywunder/atom-uhh",
